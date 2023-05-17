@@ -5,7 +5,7 @@ We will accept collect request and assign an employee to collect the foods.
 After collection the foods will be distributed by our employee and upon completion the collect request will be completed.
 System also needs to track all collect requests and their details.
 
-Assignment:										           Mark:30
+Assignment:										  Mark:30
 Do Whatever you can (using your wisdom not your friends), to help this NGO.
 
 Hint:
