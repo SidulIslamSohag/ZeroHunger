@@ -9,9 +9,9 @@ Assignment:										           Mark:30
 Do Whatever you can (using your wisdom not your friends), to help this NGO.
 
 Hint:
-Analyze the story
-Find the entities
-Find relationships among them
-Design database
-Develop system
+Analyze the story,
+Find the entities,
+Find relationships among them,
+Design database,
+Develop system,
 N:B: You can skip validation and use EF generated models if you want.
