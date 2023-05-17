@@ -14,4 +14,5 @@ Find the entities,
 Find relationships among them,
 Design database,
 Develop system,
+
 N:B: You can skip validation and use EF generated models if you want.
